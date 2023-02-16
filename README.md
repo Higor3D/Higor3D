@@ -9,3 +9,4 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   
 
+![Snake animation](https://github.com/Higor3D/Higor3D/blob/output/github-contribution-grid-snake.svg)
