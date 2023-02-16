@@ -1,5 +1,5 @@
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Higor3D&show_icons=true&theme=dark"> 
- (https://github-readme-stats.vercel.app/api/top-langs/?username=Higor3D&layout=compact&theme=dark")](https://github.com/Higor3D/github-readme-stats)
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Higor3D&show_icons=true&theme=dark"> 
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=Higor3D&layout=compact)](https://github.com/Higor3D/github-readme-stats)
 
 
 
