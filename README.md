@@ -1,6 +1,6 @@
  <div style="margin: 0%">
  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Higor3D&show_icons=true&theme=dark"> 
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor3D&layout=compact&theme=dark")](https://github.com/Higor3D/github-readme-stats">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor3D&layout=compact&theme=dark")](https://github.com/Higor3D/github-readme-stats">
  </div>
 
 
